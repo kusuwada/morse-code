@@ -56,5 +56,5 @@ You can add/remove morse_code map by editing `./morse.yml`.
 
 ## Limitation
 
-* Morse code is consists of `.` and `-`. If your signal use other charactor, please format your signal before/after this script.
-* If there are some invalid input charactors, the output becomes like `.-. .--*invalid_char*. .-`.
+* Morse code is consists of `.` and `-`. If your signal use other character, please format your signal before/after this script.
+* If there are some invalid input characters, the output becomes like `.-. .--*invalid_char*. .-`.
